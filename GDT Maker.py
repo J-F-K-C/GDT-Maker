@@ -52,7 +52,8 @@ def bearbeite_datei():
 # GUI erstellen
 root = tk.Tk()
 root.title("Datei erstellen")
-# root.geometry("800x600")  # Fenstergröße auf 800x600 setzen
+# Fenstergröße auf 800x600 setzen
+# root.geometry("800x600")  
 
 # Eingabefelder für Variablen
 eingabe1_var = tk.StringVar()
